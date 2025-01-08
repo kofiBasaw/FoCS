@@ -1,2 +1,2 @@
 # FoCS
-Foundations of Computer Science progect
+Foundations of Computer Science project
