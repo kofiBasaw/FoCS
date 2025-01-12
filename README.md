@@ -1,5 +1,6 @@
 # FoCS
 ## Foundations of Computer Science project
+You have to work on the NYC Trip Fare repository. You can skip the 'store_and_fwd_flag' column, but it’s a bonus point if you can manage it correctly.
 ### Project text
 1) Extract all trips with trip_distance larger than 50
 2) Extract all trips where payment_type is missing
